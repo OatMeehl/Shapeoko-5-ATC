@@ -1,4 +1,5 @@
 ![Shapeoko5 ATC](https://github.com/user-attachments/assets/4debbb05-b612-4f68-82fa-ab4cc2f4993e)
+![Tool Holder Render](https://github.com/user-attachments/assets/72e6714a-2777-4af9-b972-c6f7387aa0a0)
 
 Shapeoko 5 Pro 4x4 ATC
 
