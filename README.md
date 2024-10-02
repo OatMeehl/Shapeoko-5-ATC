@@ -1,5 +1,5 @@
 # Shapeoko 5 Pro 4x4 ATC
-![Shapeoko5 ATC](https://github.com/user-attachments/assets/4debbb05-b612-4f68-82fa-ab4cc2f4993e)
+![Shapeoko_5_Pro_Machine Render](https://github.com/user-attachments/assets/82944d62-3396-4400-b67c-19960ef7ad40)
 <img width="750" alt="Tool Print+Render" src="https://github.com/user-attachments/assets/a906cb31-705a-4400-9f26-af173bee5635">
 
 ### Things needed to buy;
