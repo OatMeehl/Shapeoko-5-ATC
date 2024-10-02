@@ -12,6 +12,8 @@ Cooling System - either a tank of water with a submersible pump or a small chill
 
 Air compressor - The quiet ones are nice - https://www.harborfreight.com/1-gallon-135-psi-ultra-quiet-oil-free-hand-carry-jobsite-air-compressor-64592.html
 
+Air Pump - Creates constant positive pressure to keep dust out of spindle bearings. https://a.co/d/5YxAlrj
+
 Qty 7 - Proximity Sensors - https://a.co/d/2bBb0iI
 
 ISO20 Tool Holders - https://a.co/d/e9mtsC4
