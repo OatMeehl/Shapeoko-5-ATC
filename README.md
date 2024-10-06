@@ -41,7 +41,7 @@ Terminal Block - https://a.co/d/eLBwwW1
 (Qty 14) M6x14 SHCS - https://a.co/d/dRKVwIe or just go to your local hardware store
 
 
-This is a fairly involved project to take on. The requirement to install a 220V circuit for the spindle and do the wiring and VFD setup might be a bit much for some people. If you're the adventurous type and have some mechanical and electrical skills you should be good to go. I'll show what I did as much as I can but I'm sure I'll be missing some stuff since I did most of this over a year ago. Use common sense and build at your own risk!
+This is a fairly involved project to take on. The requirement to install a 220V circuit for the spindle and do the wiring and VFD setup might be a bit much for some people. If you have some solid mechanical and electrical skills you should be good to go. I'll show what I did as much as I can but I'm sure I'll be missing some stuff since I did most of this over a year ago. Use common sense and build at your own risk!
 
 ***This will only work if you are using the Fusion360 payed version since the free one doesn't allow tool changes. If Carbide3D would open up their Carbide Create posts for editing I could maybe add the Gcode that would be needed to make this work, but currently that isn't the case. Even if you don't use automated tool changing, the convenience and speed of manual tool changes is still worth it in my opinion.
 
