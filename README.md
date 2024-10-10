@@ -47,6 +47,7 @@ This is a fairly involved project to take on. The requirement to install a 220V 
 
 This is a project for an automated tool changing system for the Shapeoko 5 Pro CNC router without having to upgrade the machine controller and retaining the use of Carbide Motion software. It uses an Aliexpress ATC spindle and other components to make it happen. The tool pocket stations mount directly to the table. The tool changes are controlled by G code output from a Fusion 360 Post processor. When the spindle goes to a tool location and gets within range of the proximity sensor, the tool release solenoid is activated and is latched in by a timer relay with a 3 second latch time. During that time the spindle will fully lower into the tool position. To pick up a tool the spindle needs to stay in the position longer than the timer relay time and to drop off a tool it needs to leave before that time. The G code then issues an M6 which will cause Carbide Motion to give a confirmation dialog. I use Dialog Demon https://dair.com/ddevil/ to auto-confirm that dialog. Then our tool measure cycle can commence and we're ready to party! 
 
-Video Demo doing 4 tool changes here;
+## Video Demo doing 4 tool changes here;
+
 [![HERE](https://img.youtube.com/vi/65O__KrGo3E/0.jpg)](https://www.youtube.com/watch?v=65O__KrGo3E)
 
